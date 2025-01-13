@@ -61,7 +61,7 @@ python3 Optimize/optimization.py --vis_env='w space id_margin=-0.7' \
 
 ## [Quality Metrics](https://github.com/Huiyu-Li/GMIA-Feature-Extractor-Training/tree/main)
 
-### Identity Elimination
+### Identity elimination
 Evaluate the Inner linability risk of the anonymized dataset.<br>
 ```.bash
 python3 ./Evaluate/identityI_eval.py
@@ -72,13 +72,13 @@ Evaluate the Outer linability risk of the anonymized dataset.<br>
 python3 ./Evaluate/identityO_eval.py
 ```
 
-### Utility Preservation
+### Utility preservation
 Evaluate the utility network on the anonymized dataset.<br>
 ```.bash
 python3 ./Evaluate/utilityA_eval_CheXclusion_uDense.py
 ```
 
-### Privacy_Metrics
+### Privacy metrics
 Calculate the privacy metrics in the identity feature space.<br>
 ```.bash
 python3 ./Privacy_Metrics/main_identity.py
