@@ -5,15 +5,14 @@
 **Generative Medical Image Anonymization Based on Latent Code Projection and Optimization**<br>
 Huiyu Li, Nicholas Ayache, Hervé Delingette<br>
 <!-- ToDo<br> -->
-**Data Exfiltration and Anonymization of Medical Images based on Generative Models** (Chapter3-4) <br>
+[**Data Exfiltration and Anonymization of Medical Images based on Generative Models** (Chapter3-4)](https://inria.hal.science/tel-04875160)<br>
 Huiyu Li<br>
-https://inria.hal.science/tel-04875160<br> 
 
 ## Requirements
 * 64-bit python==3.7, pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=11.0 -c pytorch. See [https://pytorch.org/](https://pytorch.org/) for PyTorch install instructions.
 
 ## Preparing Datasets
-**MIMIC-CXR-JPG**:
+**MIMIC-CXR-JPG**:<br>
 Step 1: Download the [MIMIC-CXR-JPG dataset](https://physionet.org/content/mimic-cxr-jpg/2.1.0/).
 
 Step 2: Dataset Pre-processing accoring to the [repository](https://github.com/Huiyu-Li/GMIA-Dataset-Pre-processing/tree/main).
