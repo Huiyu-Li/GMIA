@@ -5,6 +5,8 @@
 **Generative Medical Image Anonymization Based on Latent Code Projection and Optimization**<br>
 Huiyu Li, Nicholas Ayache, Hervé Delingette<br>
 <!-- ToDo<br> -->
+**Data Exfiltration and Anonymization of Medical Images based on Generative Models**<br>
+Huiyu Li<br>
 https://inria.hal.science/tel-04875160<br> (Chapter3-4)
 
 ## Requirements
