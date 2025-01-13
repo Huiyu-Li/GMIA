@@ -1,6 +1,6 @@
 ## GMIA-Generative Medical Image Anonymization &mdash; Official PyTorch implementation
 
-![Teaser image](./docs/flowchart.png.png)
+![Teaser image](./docs/flowchart.png)
 
 **Generative Medical Image Anonymization Based on Latent Code Projection and Optimization**<br>
 Huiyu Li, Nicholas Ayache, Hervé Delingette<br>
