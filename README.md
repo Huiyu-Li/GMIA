@@ -5,9 +5,9 @@
 **Generative Medical Image Anonymization Based on Latent Code Projection and Optimization**<br>
 Huiyu Li, Nicholas Ayache, Hervé Delingette<br>
 <!-- ToDo<br> -->
-**Data Exfiltration and Anonymization of Medical Images based on Generative Models**<br>
+**Data Exfiltration and Anonymization of Medical Images based on Generative Models** (Chapter3-4) <br>
 Huiyu Li<br>
-https://inria.hal.science/tel-04875160<br> (Chapter3-4)
+https://inria.hal.science/tel-04875160<br> 
 
 ## Requirements
 * 64-bit python==3.7, pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=11.0 -c pytorch. See [https://pytorch.org/](https://pytorch.org/) for PyTorch install instructions.
@@ -38,7 +38,7 @@ python3 Evaluate/reco_evaluation.py
 python3 Optimize/extraction.py --choice=identity
 ```
 
-### utility feature extraction
+### Utility feature extraction
 ```.bash
 python3 Optimize/extraction.py --choice=utility
 ```
