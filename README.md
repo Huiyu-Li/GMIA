@@ -97,17 +97,16 @@ References:
 
 <!-- ToDo<br> -->
 ```
-@phdthesis{li:tel-04875160,
-  TITLE = {{Data Exfiltration and Anonymization of Medical Images based on Generative Models}},
-  AUTHOR = {Li, Huiyu},
-  URL = {https://inria.hal.science/tel-04875160},
-  SCHOOL = {{Inria \& Universit{\'e} Cote d'Azur, Sophia Antipolis, France}},
-  YEAR = {2024},
-  MONTH = Nov,
-  KEYWORDS = {Privacy and security ; Steganography ; Medical image anonymization ; Identity-utility extraction ; Latent code optimization ; Data exfiltration attack ; Attaque d'exfiltration de donn{\'e}es ; Compression d'images ; Confidentialit{\'e} ; St{\'e}ganographie ; Anonymisation d'images m{\'e}dicales ; Extraction d'identit{\'e}-utilit{\'e} ; Optimisation du code latent},
-  TYPE = {Theses},
-  PDF = {https://inria.hal.science/tel-04875160v2/file/Huiyu_Thesis_ED_STIC.pdf},
-  HAL_ID = {tel-04875160},
-  HAL_VERSION = {v2},
+@article{li2025generative,
+  title={Generative medical image anonymization based on latent code projection and optimization},
+  author={Li, Huiyu and Ayache, Nicholas and Delingette, Herv{\'e}},
+  booktitle={IEEE International Symposium on Biomedical Imaging (ISBI 2025)},
+  year={2025}
+}
+@phdthesis{li2024data,
+  title={Data exfiltration and anonymization of medical images based on generative models},
+  author={Li, Huiyu},
+  year={2024},
+  school={Universit{\'e} C{\^o}te d'Azur}
 }
 ```
